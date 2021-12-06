@@ -1,5 +1,5 @@
 Official GitHub account of 1vel development team.
-- Working on two projects, keep your eyes open 👀
+- Working on two projects, keep your eyes opened 👀
 - Currently learning docker and node.js 💻
 - Collaborating on FlexRoseWeb project 💞️
 
