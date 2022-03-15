@@ -1,6 +1,6 @@
 Official GitHub account of 1vel development team.
 - Working on two projects, keep your eyes opened 👀
-- Starting a new one soon!
+- MVNotes coming soon!
 - Currently learning docker and node.js 💻
 - Collaborating on FlexRoseWeb project 💞️
 
